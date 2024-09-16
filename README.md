@@ -41,9 +41,8 @@ Dietary patterns analyses UPDATE July 2024.R: This file handles all of the analy
 
 1. Clone this repository to your local machine:
 git clone https://github.com/axvonder/Dietary-patterns-lung-function.git
-Install the required R packages:
-install.packages(c("lme4", "metafor", "survey", "tidyverse", "ggplot2", "srvyr"))
-Set your working directory to the cloned repository folder in your R environment.
+2. Install the required R packages (noted in the code).
+3. Set your working directory to the cloned repository folder in your R environment.
 
 ## 5. Usage
 
